@@ -16,8 +16,7 @@
   </div>
 </details>
 
-[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:astephanyn7@gmail.com)
-[![Linkedin: stephanynusch](https://img.shields.io/badge/-stephanynusch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stephanynusch/)](https://www.linkedin.com/in/stephanynusch/)
+[![Linkedin: adrianasouza](https://img.shields.io/badge/-adrianasouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-souza-4032b43a/)](https://www.linkedin.com/in/adriana-souza-4032b43a/)
 [![GitHub: adrianacsz](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/AdrianaCSZ/AdrianaCSZ)
 </div>
 
