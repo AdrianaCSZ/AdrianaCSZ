@@ -6,16 +6,10 @@
 
 ***ADRIANA SOUZA***
 
-Para transição de carreira que sempre idealizei, atualmente estou  realizando:
+
   
-**Pós Graduação em Full Stack Java Developer**
+**Pós Graduação em Full Stack Java Developer - student**
   
-<details>
-  <summary> Perfil </summary>
-<div align="left">
- 
-  </div>
-</details>
 
 [![Linkedin: adrianasouza](https://img.shields.io/badge/-adrianasouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-souza-4032b43a/)](https://www.linkedin.com/in/adriana-souza-4032b43a/)
 [![GitHub: adrianacsz](https://img.shields.io/github/followers/stebsnusch?label=follow&style=social)](https://github.com/AdrianaCSZ/AdrianaCSZ)
