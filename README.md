@@ -9,7 +9,7 @@
 
 
   
-### ***Post Graduation in Full Stack Java Developer - student***
+### ***Graduate Student - Full Stack Java Developer***
   
 
 [![Linkedin: adrianasouza](https://img.shields.io/badge/-adrianasouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adriana-souza-4032b43a/)](https://www.linkedin.com/in/adriana-souza-4032b43a/)
