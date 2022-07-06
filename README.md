@@ -6,11 +6,12 @@
 
 ***ADRIANA SOUZA***
 
+Para transição de carreira que sempre idealizei, estou realizando   
+  
 **Pós Graduação em Full Stack Java Developer**
-
-
+  
 <details>
-  <summary> Sobre meu perfil </summary>
+  <summary> Perfil </summary>
 <div align="left">
  
   </div>
