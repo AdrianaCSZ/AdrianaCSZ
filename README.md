@@ -1,5 +1,5 @@
 ### Hello World!👋      
-### ***Welcome to my Github World.***
+### ***Welcome to my GitHub World.***
 ### ***I'm ADRIANA SOUZA.***
 
 
