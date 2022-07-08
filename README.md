@@ -1,7 +1,6 @@
 
-
+## Sou Adriana Souza.
 ## Seja muito bem vindo(a)! 👋 
-## Sou Adriana Souza
  
 
 <div>
