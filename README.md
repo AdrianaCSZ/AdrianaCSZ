@@ -28,4 +28,4 @@
   ## 
   
    ![Snake animation](https://github.com/raphaelaferraz/raphaelaferraz/blob/output/github-contribution-grid-snake.svg)
-Footer
+
