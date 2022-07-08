@@ -17,7 +17,7 @@ const stebs = {
         fullName: 'Adriana Souza',
         birthDate: '1977-11-14',
         pronouns: 'she' | 'her',
-        interests: ['music', 'games', 'language learning', 'anime'],
+        interests: ['games', 'language learning', 'web'],
         motivation: [
             'Help improving diversity and inclusion',
             'Making life easier and smarter through tech',
@@ -29,14 +29,16 @@ const stebs = {
                 Javascript: ['React'],
                 HTML: ['HTML5', 'Semantic HTML'],
                 CSS: ['styled-components', 'Bootstrap'],
+                Java: ['node.js'],
             },
             backEnd: {
                 Javascript: ['Node.js', 'Express']
             },
-            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
+            architecture: ['Single Page Applications'],
         },
+            Tool: ['Visual Studio Code', 'Git', 'GitHub', 'Microsoft Office'
     }
-}
+ }
 ```
   </div>
 </details>
