@@ -12,7 +12,7 @@ I'm a Full Stack Java Developer  || T.I.
 <div align="left">
  
 ``` js
-const stebs = {
+const asouza = {
     personal: {
         fullName: 'Adriana Souza',
         birthDate: '1977-11-14',
