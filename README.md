@@ -18,11 +18,8 @@
  
   ##
   
- 
-  <div align="center">
-  
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
 
+### Social Media:
   
 <div>
   <a href="https://instagram.com/adrianasouzabr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -33,4 +30,9 @@
   ## 
   
    ![Snake animation](https://github.com/raphaelaferraz/raphaelaferraz/blob/output/github-contribution-grid-snake.svg)
+
+
+ 
+ 
+
 
