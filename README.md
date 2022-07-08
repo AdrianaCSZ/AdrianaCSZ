@@ -19,7 +19,6 @@ const stebs = {
         pronouns: 'she' | 'her',
         interests: ['games', 'language learning', 'web'],
         motivation: [
-            'Help improving diversity and inclusion',
             'Making life easier and smarter through tech',
         ],
     },
