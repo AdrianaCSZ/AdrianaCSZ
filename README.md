@@ -5,7 +5,8 @@
    ![Snake animation](https://github.com/raphaelaferraz/raphaelaferraz/blob/output/github-contribution-grid-snake.svg)
 
 
-I'm a Full Stack Java Developer  || T.I.
+I'm a Software Engineering || T.I. || Business manager
+
 
 <details>
   <summary> More about me</summary>
