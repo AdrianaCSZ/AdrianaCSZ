@@ -18,7 +18,7 @@ const asouza = {
         fullName: 'Adriana Souza',
         birthDate: '1977-11-14',
         pronouns: 'she' | 'her',
-        interests: ['language learning', 'web developer', SCRUM MASTER'],
+        interests: ['language learning', 'web developer', 'SCRUM MASTER', 'Metodolgias Ágeis'],
         motivation: [
             'Making life easier and smarter through tech',
         ],
