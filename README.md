@@ -36,7 +36,7 @@ const asouza = {
             },
             architecture: ['Single Page Applications'],
         },
-            Tool: ['Visual Studio Code', 'Git', 'GitHub', 'Microsoft Office'
+            Tool: ['Visual Studio Code', 'Git', 'GitHub', 'Microsoft Office' 'Microsoft Azure'],
     }
  }
 ```
