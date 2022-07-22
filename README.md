@@ -16,9 +16,8 @@ const adri = {
     personal: {
         fullName: 'Adriana Souza',
         pronouns: 'she' | 'her',
-        interests: ['language learning' 'Analista de Negócios - PO', 'SCRUM MASTER', 'Metodolgias Ágeis'],
+        interests: ['language learning','Analista de Negócios - PO', 'SCRUM MASTER', 'Metodolgias Ágeis'],
         motivation: [
-            'Help improving diversity and inclusion',
             'Making life easier and smarter through tech',
         ],
     },
@@ -30,7 +29,7 @@ const adri = {
                 CSS: ['styled-components', 'Bootstrap'],
             },
             backEnd: {
-                Javascript: ['Node.js', 'Express'],
+                Javascript: ['Node.js'],
             },
             Tool: ['Visual Studio Code', 'Git', 'GitHub', 'Microsoft Office' 'Microsoft Azure'],
         },
