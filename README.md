@@ -7,25 +7,90 @@
 
 I'm a Software Engineer || T.I. || Business Analist || Business manager
 
+<details>
+  <summary> More about me</summary>
+<div align="left">
 
-
-        fullName: 'Adriana Souza'
-        birthDate: '1977-11-14'
-        pronouns: 'she' | 'her'
-        interests: 'language learning', 'Analista de Negócios - PO', 'SCRUM MASTER', 'Metodolgias Ágeis'
-        motivation: Making life easier and smarter through tech'
-       
-        technologies: frontEnd: Javascript; HTML5; CSS:
-                      backEnd:  Javascript, Node.js
-            
+``` js
+const adri = {
+    personal: {
+        fullName: 'Adriana Souza',
+        pronouns: 'she' | 'her',
+        interests: ['language learning' 'Analista de Negócios - PO', 'SCRUM MASTER', 'Metodolgias Ágeis'],
+        motivation: [
+            'Help improving diversity and inclusion',
+            'Making life easier and smarter through tech',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['React'],
+                HTML: ['HTML5'],
+                CSS: ['styled-components', 'Bootstrap'],
+            },
+            backEnd: {
+                Javascript: ['Node.js', 'Express'],
+            },
             Tool: ['Visual Studio Code', 'Git', 'GitHub', 'Microsoft Office' 'Microsoft Azure'],
+        },
+    }
+}
+```
+  </div>
+</details>
 
+
+
+        f
+
+
+
+## Hello, World! 👋
+
+<div align="center">
+  
+<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
+
+I'm a Software Engineer @ [Microsoft](https://www.microsoft.com/).
+
+<details>
+  <summary> More about me</summary>
+<div align="left">
+ 
+``` js
+const adri = {
+    personal: {
+        fullName: 'Adriana Souza',
+        pronouns: 'she' | 'her',
+        interests: ['music', 'games', 'language learning', 'anime'],
+        motivation: [
+            'Help improving diversity and inclusion',
+            'Making life easier and smarter through tech',
+        ],
+    },
+    technical: {
+        technologies: {
+            frontEnd: {
+                Javascript: ['Vanilla JS', 'React', 'Redux', 'Jest'],
+                HTML: ['HTML5', 'Semantic HTML'],
+                CSS: ['sass', 'styled-components', 'Bootstrap'],
+            },
+            backEnd: {
+                Javascript: ['Node.js', 'Express']
+            },
+            architecture: ['Single Page Applications', 'Domain Driven Design', 'Feature First'],
+        },
+    }
+}
+```
+  </div>
+</details>
 
 [![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3AdrianaSouza7%40gmail.com)](mailto:adrianasouzabr1@gmail.com)
 [![Linkedin: adrianasouza](https://img.shields.io/badge/-adrianasouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianasouza/)](https://www.linkedin.com/in/adriana-souza-4032b43a/)
 [![GitHub: adrianasouza](https://img.shields.io/github/followers/adrianasouza?label=follow&style=social)](https://github.com/AdrianaCSZ)
 </div>
-
 
 
 
