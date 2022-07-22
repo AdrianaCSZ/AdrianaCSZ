@@ -7,7 +7,9 @@
 
 I'm a Software Engineer || T.I. || Business Analist || Business manager
 
-
+<details>
+  <summary> More about me</summary>
+<div align="left">
 
 ``` js
 const adri = {
@@ -46,6 +48,3 @@ const adri = {
 
 
 
-<div align="center">
-  
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
