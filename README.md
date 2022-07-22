@@ -7,9 +7,7 @@
 
 I'm a Software Engineer || T.I. || Business Analist || Business manager
 
-<details>
-  <summary> More about me</summary>
-<div align="left">
+
 
 ``` js
 const adri = {
