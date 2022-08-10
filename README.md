@@ -5,7 +5,7 @@
    ![Snake animation](https://github.com/raphaelaferraz/raphaelaferraz/blob/output/github-contribution-grid-snake.svg)
 
 
-I'm a Software Engineer || T.I. || Business Analist || Business manager
+I'm a Software Engineer || T.I. || Business Analist || Business Manager
 
 <details>
   <summary> More about me</summary>
