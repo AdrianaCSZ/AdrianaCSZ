@@ -5,7 +5,7 @@
    ![Snake animation](https://github.com/raphaelaferraz/raphaelaferraz/blob/output/github-contribution-grid-snake.svg)
 
 
-I'm a Software Engineer || T.I. || Agile Coach Professional || Commercial Management
+I'm a Software Engineer || TI || Agile Coach Professional || Commercial Management
 
 <details>
   <summary> More about me</summary>
